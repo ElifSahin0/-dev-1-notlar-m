@@ -1,0 +1,20 @@
+C:\Users\Demil\Desktop\sayigirisalani\sayigirisalani\bin\Debug\sayigirisalani.exe.config
+C:\Users\Demil\Desktop\sayigirisalani\sayigirisalani\bin\Debug\sayigirisalani.exe
+C:\Users\Demil\Desktop\sayigirisalani\sayigirisalani\bin\Debug\sayigirisalani.pdb
+C:\Users\Demil\Desktop\sayigirisalani\sayigirisalani\obj\Debug\sayigirisalani.csproj.AssemblyReference.cache
+C:\Users\Demil\Desktop\sayigirisalani\sayigirisalani\obj\Debug\sayigirisalani.Form1.resources
+C:\Users\Demil\Desktop\sayigirisalani\sayigirisalani\obj\Debug\sayigirisalani.Properties.Resources.resources
+C:\Users\Demil\Desktop\sayigirisalani\sayigirisalani\obj\Debug\sayigirisalani.csproj.GenerateResource.cache
+C:\Users\Demil\Desktop\sayigirisalani\sayigirisalani\obj\Debug\sayigirisalani.csproj.CoreCompileInputs.cache
+C:\Users\Demil\Desktop\sayigirisalani\sayigirisalani\obj\Debug\sayigirisalani.exe
+C:\Users\Demil\Desktop\sayigirisalani\sayigirisalani\obj\Debug\sayigirisalani.pdb
+C:\Users\Demil\Desktop\Sch\EGE ÜNİVERSİTESİ 2. SINIF\ÖDEVLER\nesne tabanlı\29.12.2023\sayigirisalani\sayigirisalani\bin\Debug\sayigirisalani.exe.config
+C:\Users\Demil\Desktop\Sch\EGE ÜNİVERSİTESİ 2. SINIF\ÖDEVLER\nesne tabanlı\29.12.2023\sayigirisalani\sayigirisalani\bin\Debug\sayigirisalani.exe
+C:\Users\Demil\Desktop\Sch\EGE ÜNİVERSİTESİ 2. SINIF\ÖDEVLER\nesne tabanlı\29.12.2023\sayigirisalani\sayigirisalani\bin\Debug\sayigirisalani.pdb
+C:\Users\Demil\Desktop\Sch\EGE ÜNİVERSİTESİ 2. SINIF\ÖDEVLER\nesne tabanlı\29.12.2023\sayigirisalani\sayigirisalani\obj\Debug\sayigirisalani.csproj.AssemblyReference.cache
+C:\Users\Demil\Desktop\Sch\EGE ÜNİVERSİTESİ 2. SINIF\ÖDEVLER\nesne tabanlı\29.12.2023\sayigirisalani\sayigirisalani\obj\Debug\sayigirisalani.Form1.resources
+C:\Users\Demil\Desktop\Sch\EGE ÜNİVERSİTESİ 2. SINIF\ÖDEVLER\nesne tabanlı\29.12.2023\sayigirisalani\sayigirisalani\obj\Debug\sayigirisalani.Properties.Resources.resources
+C:\Users\Demil\Desktop\Sch\EGE ÜNİVERSİTESİ 2. SINIF\ÖDEVLER\nesne tabanlı\29.12.2023\sayigirisalani\sayigirisalani\obj\Debug\sayigirisalani.csproj.GenerateResource.cache
+C:\Users\Demil\Desktop\Sch\EGE ÜNİVERSİTESİ 2. SINIF\ÖDEVLER\nesne tabanlı\29.12.2023\sayigirisalani\sayigirisalani\obj\Debug\sayigirisalani.csproj.CoreCompileInputs.cache
+C:\Users\Demil\Desktop\Sch\EGE ÜNİVERSİTESİ 2. SINIF\ÖDEVLER\nesne tabanlı\29.12.2023\sayigirisalani\sayigirisalani\obj\Debug\sayigirisalani.exe
+C:\Users\Demil\Desktop\Sch\EGE ÜNİVERSİTESİ 2. SINIF\ÖDEVLER\nesne tabanlı\29.12.2023\sayigirisalani\sayigirisalani\obj\Debug\sayigirisalani.pdb

@@ -1,0 +1,10 @@
+C:\Users\Demil\Desktop\magaza\magaza\obj\Debug\magaza.csproj.AssemblyReference.cache
+C:\Users\Demil\Desktop\magaza\magaza\obj\Debug\magaza.Form1.resources
+C:\Users\Demil\Desktop\magaza\magaza\obj\Debug\magaza.Properties.Resources.resources
+C:\Users\Demil\Desktop\magaza\magaza\obj\Debug\magaza.csproj.GenerateResource.cache
+C:\Users\Demil\Desktop\magaza\magaza\obj\Debug\magaza.csproj.CoreCompileInputs.cache
+C:\Users\Demil\Desktop\magaza\magaza\bin\Debug\magaza.exe.config
+C:\Users\Demil\Desktop\magaza\magaza\bin\Debug\magaza.exe
+C:\Users\Demil\Desktop\magaza\magaza\bin\Debug\magaza.pdb
+C:\Users\Demil\Desktop\magaza\magaza\obj\Debug\magaza.exe
+C:\Users\Demil\Desktop\magaza\magaza\obj\Debug\magaza.pdb

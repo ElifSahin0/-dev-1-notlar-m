@@ -1,0 +1,7 @@
+C:\Users\Demil\Desktop\konsolxxo\konsolxxo\obj\Debug\konsolxxo.csproj.AssemblyReference.cache
+C:\Users\Demil\Desktop\konsolxxo\konsolxxo\obj\Debug\konsolxxo.csproj.CoreCompileInputs.cache
+C:\Users\Demil\Desktop\konsolxxo\konsolxxo\bin\Debug\konsolxxo.exe.config
+C:\Users\Demil\Desktop\konsolxxo\konsolxxo\bin\Debug\konsolxxo.exe
+C:\Users\Demil\Desktop\konsolxxo\konsolxxo\bin\Debug\konsolxxo.pdb
+C:\Users\Demil\Desktop\konsolxxo\konsolxxo\obj\Debug\konsolxxo.exe
+C:\Users\Demil\Desktop\konsolxxo\konsolxxo\obj\Debug\konsolxxo.pdb
